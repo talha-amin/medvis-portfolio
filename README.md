@@ -15,7 +15,7 @@ This repository documents my practical coursework in **Medical Visualization**, 
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure Sample
 
 ```
 medvis-portfolio/
@@ -70,4 +70,4 @@ DICOM datasets used in these exercises are **not included** in this repository a
 
 ---
 
-*Coursework completed as part of Medical Visualization, [Your University Name]*
+*Coursework completed as part of Medical Visualization @ OVGU Magdeburg*

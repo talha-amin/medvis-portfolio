@@ -49,7 +49,7 @@ medvis-portfolio/
 - Comparing **Median filter** vs **Gaussian filter** for noise reduction
 - Understanding when each filter is appropriate in a medical context
 - Segmentation using thresholding and connected component analysis
-
+- Morphological operations (Erosion, Dilation, Opening, Closing) on medical images using rectangular and elliptical kernel
 ---
 
 ## ⚠️ Note on Data
